@@ -23,13 +23,13 @@ Here are my work. Hope it helps and enjoy it!
 
 - [ ⛩ DIY Option pricing Calculator [Python Numpy ]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
 - [ ❗🖥 Data Structure Learning - [Java, Minheap,Stack,HashBucket etc.]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
-### Data and Information Visualization
+### Data Visualization & A/B Testing
 
 - [ 🎥 Box Office Visulation and causal analysis - [Python ]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
 - [ ❗🟥🟩 Merry Christmas Gift - Yealy Summary from what you are talking - [Wordcloud, SQLlite]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
 - [ ❗🧭 Data Visualization on HeatMap,Scatter, TrendLine [Tableau SQL BI]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
 - [ ❗🧭 A/B testing On App New feature Treatment [AB test, R, statistics]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
-- 
+
 
 
 
