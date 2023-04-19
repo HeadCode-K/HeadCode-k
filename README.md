@@ -12,21 +12,24 @@
 I am Kangchao Hu. I want to be a data analyst to bring fun and fact 👣. My interest related to Finance|Visualisation etc. I am **Big Travel Planner** currenly expore the boundary of the data and business practice.
 > *"I once wantted to be a superhero. Now I want to use power of data to bring more benefits to everyone."*
 
-Here are my work. Hope it helps and enjoy it!
+
 
 ---
+Here are my work. Hope it helps and enjoy it!
 ### Machine Learning & Python Tools
 
 
-- [ 🗼📈 Time Series Index enhancing stratrgy based on LSTM | [Stock Prediction] ](https://github.com/HeadCode-K/Index_Enhanccing_Based-ON-LSTM)
+- [ 🗼📈 Time Series Index enhancing stratrgy based on LSTM | [Stock Prediction ,Python, Pytorch, Pandas. Hedgeing] ](https://github.com/HeadCode-K/Index_Enhanccing_Based-ON-LSTM)
 
-- [ ⛩ DIY Option pricing Calculator [python Version]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
-- [ ❗🖥 Data Structure Learning](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
+- [ ⛩ DIY Option pricing Calculator [Python Numpy ]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
+- [ ❗🖥 Data Structure Learning - [Java, Minheap,Stack,HashBucket etc.]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
 ### Data and Information Visualization
 
-- [ 🎥 Box Office Visulation and causal analysis - [Python]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
+- [ 🎥 Box Office Visulation and causal analysis - [Python ]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
 - [ ❗🟥🟩 Merry Christmas Gift - Yealy Summary from what you are talking - [Wordcloud, SQLlite]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
 - [ ❗🧭 Data Visualization on HeatMap,Scatter, TrendLine [Tableau SQL BI]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
+- [ ❗🧭 A/B testing On App New feature Treatment [AB test, R, statistics]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
+- 
 
 
 
