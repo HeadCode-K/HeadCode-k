@@ -22,7 +22,7 @@ Here are my work. Hope it helps and enjoy it!
 - [ 🗼📈 Time Series Index enhancing stratrgy based on LSTM | [Stock Prediction ,Python, Pytorch, Pandas. Hedgeing] ](https://github.com/HeadCode-K/Index_Enhanccing_Based-ON-LSTM)
 
 - [ ⛩ DIY Option pricing Calculator [Python Numpy ]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
-- [ ❗🖥 Data Structure Learning - [Java, Minheap,Stack,HashBucket etc.]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
+- [ 🖥 Data Structure Learning - [Java, Minheap,Stack,HashBucket etc.]](https://github.com/HeadCode-K/Data_structure)
 ### Data Visualization & A/B Testing
 
 - [ 🎥 Box Office Visulation and causal analysis - [Python ]](https://github.com/HeadCode-K/OptionPricing_calculator_Python)
